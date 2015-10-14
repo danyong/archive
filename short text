@@ -13,3 +13,6 @@ function short_content($num) {
     }
 }
 ?>
+
+USAGE:
+eg. <?php short_content(255); ?>
